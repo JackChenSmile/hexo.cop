@@ -1,6 +1,18 @@
-## Python1806
+---
+title: Python
+date: 2018-10-15 07:44:14
+tags: 大概指南
+---
 
-### 第6周第1天
+学习是一件庄严而又神圣的事情，贵在坚持
+
+不断地积累,才能体会到其中的乐趣
+
+
+
+## Python
+
+### 第1天
 
 1. 前端页面 = 标签(内容) + CSS(显示) + JavaScript(行为)
 2. JavaScript = ECMAScript + BOM(window) + DOM(document)
@@ -16,8 +28,8 @@
 	- Date: getFullYear() / getMonth() / getDate() / getDay()
 	- Math: Math.random()
 	- parseInt() / parseFloat()
- 
-### 第6周第2天
+
+### 第2天
 
 1. JavaScript中的事件处理
 	- 在标签上使用onXXX属性来进行事件绑定
@@ -38,9 +50,3 @@
 		- 处理事件有两种顺序：事件冒泡（默认，从内向外）/ 事件捕获（从外向内）
 		- 如果要阻止事件的传播行为（例如阻止事件冒泡）可以使用
 		  stopPropagation() / cancelBubble=true
-
-### 第6周第3天
-
-### 第6周第4天
-
-### 第6周第5天

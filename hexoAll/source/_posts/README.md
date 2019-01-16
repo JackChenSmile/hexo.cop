@@ -1,7 +1,12 @@
 ---
 title: Python
 date: 2018-10-15 07:44:14
-tags: 大概指南
+author: smile
+img: /source/images/KDA4.jpg
+categories: Markdown
+tags: 
+  - Typora
+  - Markdown
 ---
 
 学习是一件庄严而又神圣的事情，贵在坚持

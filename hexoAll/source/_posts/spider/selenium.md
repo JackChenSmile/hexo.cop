@@ -1,7 +1,11 @@
 ---
 title: selenium
 date: 2018-11-01 15:15:06
-tags: selenium
+author: smile
+img: /images/KDA5.jpg
+categories: spider
+tags: 
+  - selenium
 ---
 
 ```python

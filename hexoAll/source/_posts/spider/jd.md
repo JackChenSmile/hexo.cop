@@ -1,7 +1,11 @@
 ---
 title: practice——jd
 date: 2018-11-01 15:15:06
-tags: sqlalchemy
+author: smile
+img: /images/LoL.jpg
+categories: spider
+tags: 
+  - sqlalchemy
 ---
 
 数据库字段创建

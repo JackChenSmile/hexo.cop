@@ -1,7 +1,11 @@
 ---
 title: kaisha密码
 date: 2018-11-01 15:15:06
-tags: urllib
+author: smile
+img: /images/KDA3.jpg
+categories: spider
+tags: 
+  - urllib
 ---
 
 用来破解一些加密文件

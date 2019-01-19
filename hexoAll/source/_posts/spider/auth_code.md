@@ -1,7 +1,11 @@
 ---
 title: 超级鹰
 date: 2018-11-01 15:15:06
-tags: code
+author: smile
+img: /images/ALi.jpg
+categories: spider
+tags: 
+  - code
 ---
 ##  使用验证平台   超级鹰(https://www.chaojiying.com/)
 

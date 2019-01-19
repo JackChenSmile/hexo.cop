@@ -1,11 +1,11 @@
 ---
-title: youyaoqi
+title: 展示数据
 date: 2018-11-01 15:15:06
 author: smile
-img: /images/KDA2.jpg
+img: /images/AKL.jpg
 categories: spider
 tags: 
-  - cartoon
+  - databases
 ---
 
 ### 创建一个有个youyaoqi项目

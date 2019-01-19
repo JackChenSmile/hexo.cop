@@ -1,7 +1,9 @@
 ---
 title: spider相关
 date: 2018-11-01 15:15:06
-tags: 爬虫相关
+author: smile
+categories: spider
+tags: 
 ---
 
 ### 爬虫的结构

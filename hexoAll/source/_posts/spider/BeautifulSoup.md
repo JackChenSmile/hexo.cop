@@ -1,7 +1,11 @@
 ---
 title: BeautifulSoup相关
 date: 2018-11-01 15:15:06
-tags: beautifulSoup
+author: smile
+img: /images/KDA1.jpg
+categories: spider
+tags: 
+  - beautifulSoup
 ---
 
 ```python

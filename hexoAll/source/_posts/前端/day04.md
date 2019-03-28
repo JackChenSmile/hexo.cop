@@ -1,7 +1,10 @@
 ---
 title: 模型
 date: 2018-10-25 15:02:52
-tags: 总结
+author: smile
+categories: Django
+tags: 
+  - 模型
 ---
 
 

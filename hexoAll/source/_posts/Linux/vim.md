@@ -1,7 +1,10 @@
 ---
 title: vim
-date: 2018-10-15 07:44:14
+date: 2018-06-15 07:44:14
+author: smile
+categories: Linux
 tags:
+  - VIM
 ---
 
 ### vimrc ------------------- 保存格式的文件

@@ -1,10 +1,17 @@
 ---
 title: web-daytwo
-date: 2018-10-23 10:40:40
-tags: web框架
+date: 2018-01-23 10:40:40
+author: smile
+categories: Django
+tags: 
+  - web框架
+  - Django
 ---
 
-#### 进入虚拟环境
+
+
+####  进入虚拟环境
+
 - env/djenv6/Scripts/activate
   - 将代码放到code文件中,从虚拟环境中，进入code文件夹
 - 退出虚拟环境 ------- deactivate

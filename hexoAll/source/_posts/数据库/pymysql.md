@@ -1,6 +1,8 @@
 ---
 title: pymysql
-date: 2018-11-22 16:11:01
+date: 2018-08-22 16:11:01
+author: smile
+categories: databases
 tags:
 ---
 

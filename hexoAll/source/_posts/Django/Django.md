@@ -1,7 +1,11 @@
 ---
-title: Django-使用centos部署Django项目
+title: 部署Django项目
 date: 2018-12-14 20:45:47
+author: smile
+categories: Django
 tags:
+  - Django项目部署
+  - MariaDB安装
 ---
 
 
@@ -209,7 +213,7 @@ for path in paths:
 
 a）添加nginx存储库
 ​	
-	yum install epel-release
+​	yum install epel-release
 
 
 b) 安装nginx
@@ -220,7 +224,7 @@ c) 运行nginx
 
 Nginx不会自行启动。要运行Nginx
 ​	
-	systemctl start nginx
+​	systemctl start nginx
 
 nginx的运行命令：
 
@@ -232,7 +236,7 @@ nginx的运行命令：
 
 d）系统启动时启用Nginx
 ​	
-	systemctl enable nginx
+​	systemctl enable nginx
 
 e）如果您正在运行防火墙，请运行以下命令以允许HTTP和HTTPS通信：
 ​	

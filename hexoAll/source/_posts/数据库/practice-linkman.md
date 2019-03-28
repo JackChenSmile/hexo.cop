@@ -1,7 +1,10 @@
 ---
 title: practice linkman
 date: 2018-10-20 18:06:33
-tags: linkman
+author: smile
+categories: databases
+tags: 
+  - linkman
 ---
 
 ###  MY简单的联系人练习

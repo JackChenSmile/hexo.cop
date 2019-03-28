@@ -1,7 +1,11 @@
 ---
-title: web-the firstone
-date: 2018-10-22 09:42:39
+title: Django—框架
+date: 2018-01-22 09:42:39
+author: smile
+categories: Django
 tags:
+  - 框架
+  - Django
 ---
 
 ## *框架*

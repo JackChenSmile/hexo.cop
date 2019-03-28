@@ -1,7 +1,10 @@
 ---
 title: python-summary2
 date: 2018-11-01 14:23:21
+author: smile
+categories: Python
 tags:
+  - 文件操作
 ---
 
 ## 文件操作

@@ -1,7 +1,11 @@
 ---
 title: JavaScript-event
-date: 2018-11-06 20:59:40
+date: 2018-04-06 20:59:40
+author: smile
+categories: 前端
 tags:
+  - tag
+  - JavaScript
 ---
 
 ###  获取页面中的单个标签/元素的方法

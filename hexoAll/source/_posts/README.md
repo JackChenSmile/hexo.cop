@@ -2,10 +2,9 @@
 title: Python
 date: 2018-10-15 07:44:14
 author: smile
-img: /source/images/KDA4.jpg
+img: /images/KDA4.jpg
 categories: Markdown
 tags: 
-  - Typora
   - Markdown
 ---
 

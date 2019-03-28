@@ -1,7 +1,10 @@
 ---
 title: python_database
 date: 2018-10-17
+author: smile
+categories: Python
 tags: 
+  - python连接数据库
 ---
 
 ## 数据库的微操做

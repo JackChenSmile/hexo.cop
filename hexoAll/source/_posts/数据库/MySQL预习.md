@@ -1,7 +1,10 @@
 ---
-title: MySQL预习
+title: MySQL
 date: 2018-10-15 07:44:14
-tags: MySQL 
+author: smile
+img: /images/Xia.jpg
+categories: databases
+tags: 
 ---
 
 MySQL的海豚标志的名字叫“sakila”，它是由MySQL AB的创始人从用户在“海豚命名”的竞赛中建议的大量的名字表中选出的。获胜的名字是由来自非洲斯威士兰的开源软件开发者Ambrose Twebaze提供。

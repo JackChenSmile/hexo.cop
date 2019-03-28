@@ -1,7 +1,10 @@
 ---
 title: pygame相关
-date: 2018-11-01 15:15:06
-tags: game
+date: 2018-11-02 15:15:06
+author: smile
+categories: Python
+tags: 
+  - game
 ---
 
 #### 01-pygame操作
@@ -41,9 +44,9 @@ if __name__ == '__main__':
 + 显示图片
   image.load(图片路径）：获取本地的一张图片，返回图片对象
  + a.获取图片，创建图片对象
-  `image = pygame.image.load('./files/gjl.jpg')`
-  get_size():获取大小，返回值是一个元组，分别是宽和高
-  ` image_width,image_height =image.get_size()`
+    `image = pygame.image.load('./files/gjl.jpg')`
+    get_size():获取大小，返回值是一个元组，分别是宽和高
+    ` image_width,image_height =image.get_size()`
 + b.渲染图片（将图片画在纸上）
   blit(渲染对象，位置）
     位置：坐标（x,y），值的类型是元组，元组有两个对应的元素，分别是x,y的坐标

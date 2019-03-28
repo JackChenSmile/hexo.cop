@@ -1,7 +1,12 @@
 ---
 title: JavaScript-createElement
-date: 2018-11-07 21:17:45
+date: 2018-04-07 21:17:45
+author: smile
+categories: 前端
 tags:
+  - CSS
+  - HTML
+  - DOC
 ---
 
 ###  practice-one

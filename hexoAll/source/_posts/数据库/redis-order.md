@@ -1,7 +1,10 @@
 ---
 title: redis_order
-date: 2018-10-18 21:43:12
-tags: order
+date: 2018-08-18 21:43:12
+author: smile
+categories: databases
+tags: 
+  - order
 ---
 
 ## redis 命令

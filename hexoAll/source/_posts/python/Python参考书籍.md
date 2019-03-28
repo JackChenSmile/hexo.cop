@@ -1,7 +1,11 @@
 ---
-title: 编程相关书籍
-date: 2018-10-15 
-tags: Python, Web, 爬虫
+title: programming-book
+date: 2018-12-15 
+author: smile
+tags: 
+  - Python
+  - Web
+  - spider
 ---
 
 Read ten thousand books and travel ten thousand miles！

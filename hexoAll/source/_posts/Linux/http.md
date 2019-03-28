@@ -1,7 +1,9 @@
 ---
 title: http
-date: 2018-10-25 14:19:09
-tags: 状态码
+date: 2018-03-25 14:19:09
+author: smile
+tags: 
+  - http状态码
 ---
 
 ## HTTP的错误提示

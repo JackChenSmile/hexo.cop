@@ -1,7 +1,10 @@
 ---
 title: CSS属性
-date: 2018-10-31 17:52:28
-tags: float
+date: 2018-01-16 17:52:28
+author: smile
+categories: 前端
+tags: 
+  - float
 ---
 
 ### 标准流布局

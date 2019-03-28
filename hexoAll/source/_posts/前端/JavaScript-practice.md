@@ -1,7 +1,11 @@
 ---
 title: JavaScript_practice
-date: 2018-11-05 19:06:57
+date: 2018-03-10 19:06:57
+author: smile
+categories: 前端
 tags:
+  - JS
+  - practice
 ---
 
 ```python

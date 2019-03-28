@@ -1,7 +1,11 @@
 ---
 title: Linux操作
-date: 2018-10-15 07:44:14
-tags: 操作系统 Linux 防火墙
+date: 2018-04-16 07:44:14
+author: smile
+categories: Linux
+tags: 
+  - Linux操作系统 
+  - Linux防火墙设置
 ---
 
 Linux内核最初只是由芬兰人李纳斯·托瓦兹（Linus Torvalds）在赫尔辛基大学上学时出于个人爱好而编写的。

@@ -1,7 +1,10 @@
 ---
 title: Git
-date: 2018-11-19 21:20:50
+date: 2018-03-15 21:20:50
+author: smile
+categories: git
 tags:
+  - git代码管平台
 ---
 
 ##  搭建Git服务器

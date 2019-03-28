@@ -1,7 +1,10 @@
 ---
 title: python-summary
 date: 2018-11-01 10:01:14
-tags: 函数
+author: smile
+categories: Python
+tags: 
+  - 函数
 ---
 
 ##  函数

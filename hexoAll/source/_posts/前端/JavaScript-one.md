@@ -1,7 +1,10 @@
 ---
 title: JavaScript_one
-date: 2018-11-02 19:05:03
+date: 2018-04-02 19:05:03
+author: smile
+categories: 前端
 tags:
+  - JavaScript
 ---
 
 #  JavaScript

@@ -1,7 +1,10 @@
 ---
 title: CSS样式表
-date: 2018-10-30 17:54:31
-tags: 选择器
+date: 2018-01-22 17:54:31
+author: smile
+categories: 前端
+tags: 
+  - 选择器
 ---
 
 ## CSS显示

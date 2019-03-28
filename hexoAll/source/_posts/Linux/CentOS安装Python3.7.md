@@ -1,7 +1,10 @@
 ---
 title: 安装Python
-date: 2018-10-15 07:44:14
-tags: Python 软链接
+date: 2018-04-20 07:44:14
+author: smile
+categories: Python
+tags: 
+  - Python安装
 ---
 
 认真学习也是有前提的：

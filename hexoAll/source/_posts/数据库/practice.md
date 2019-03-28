@@ -1,6 +1,9 @@
 ---
 title: practice
 date: 2018-10-16 20:11:59
+author: smile
+img: /images/timg.jpg
+categories: databases
 tags:
 ---
 

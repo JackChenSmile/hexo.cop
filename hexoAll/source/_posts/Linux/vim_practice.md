@@ -1,3 +1,12 @@
+---
+title: Linux-vim-practice
+date: 2018-05-14 20:45:47
+author: smile
+categories: Linux
+tags:
+  - Linux-practice
+---
+
 #### practice1_fish
 
 ```python

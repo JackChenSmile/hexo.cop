@@ -1,7 +1,10 @@
 ---
 title: Linux_vim
-date: 2018-11-14 20:26:10
+date: 2018-06-03 20:26:10
+author: smile
+categories: Linux
 tags:
+  - vim-practice
 ---
 
 ###  分鱼

@@ -1,7 +1,12 @@
 ---
-title: daythird
-date: 2018-10-24 18:19:35
-tags: 查、删、改
+title: databases
+date: 2018-07-24 18:19:35
+author: smile
+categories: databases
+tags: 
+  - 查
+  - 删
+  - 改
 ---
 
 #### 查询表格中的数据（2）：

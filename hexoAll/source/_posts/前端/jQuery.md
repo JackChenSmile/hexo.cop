@@ -1,7 +1,10 @@
 ---
 title: jQuery
-date: 2018-11-08 12:07:03
+date: 2018-03-02 12:07:03
+author: smile
+categories: 前端
 tags:
+  - jQuery
 ---
 
 ###  下载jQuery库
